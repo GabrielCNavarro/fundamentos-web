@@ -1,0 +1,52 @@
+/*Estilos da paágina index.html*/
+.center {
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+#menu li {
+    display: inline;
+    padding: 20px;
+}
+
+#menu li a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+#menu li a:hover {
+    color: gray;
+}
+
+.p-30 {
+    padding: 30px;
+}
+
+.br-50 {
+    border-radius: 15%;
+}
+
+.wh-300 {
+    width: 700px;
+    height: 400px;
+}
+
+/*Estilos da paágina index.html*/
